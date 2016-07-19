@@ -1,4 +1,5 @@
 {
+  "name": "gcdtech/phplea",
   "require-dev": {
     "phpunit/phpunit": "*"
   },
